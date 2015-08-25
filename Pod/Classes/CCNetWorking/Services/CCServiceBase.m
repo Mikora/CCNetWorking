@@ -36,11 +36,11 @@
 }
 
 - (NSString *)offlineApiBaseUrl{
-    return @"http://test4.paimaitest.souche.com";
+    return @"http://xxx.xxx.com";
 }
 
 - (NSString *)onlineApiBaseUrl{
-    return @"http://test4.paimaitest.souche.com";
+    return @"http://xxx.xxx.com";
 }
 
 - (NSString *)offlineApiVersion{

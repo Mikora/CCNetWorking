@@ -10,14 +10,14 @@
 	<string>CCNetWorking</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AE1E104FE1C801178F0524FA13C7A2C9F489F271</key>
+		<key>E1F093AED81CB6AB2EE0BCE963A9A908E6F82E39</key>
 		<string>121.43.227.35:root/CCNetWorking.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Example/CCNetWorking.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AE1E104FE1C801178F0524FA13C7A2C9F489F271</key>
+		<key>E1F093AED81CB6AB2EE0BCE963A9A908E6F82E39</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AE1E104FE1C801178F0524FA13C7A2C9F489F271</string>
+	<string>E1F093AED81CB6AB2EE0BCE963A9A908E6F82E39</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AE1E104FE1C801178F0524FA13C7A2C9F489F271</string>
+			<string>E1F093AED81CB6AB2EE0BCE963A9A908E6F82E39</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CCNetWorking</string>
 		</dict>
