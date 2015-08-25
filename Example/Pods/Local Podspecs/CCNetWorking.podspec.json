@@ -1,0 +1,25 @@
+{
+  "name": "CCNetWorking",
+  "version": "0.1.0",
+  "summary": "初始化网络请求库.",
+  "description": "对网络请求的二次封装，使网络请求的库数据和回调满足业务",
+  "homepage": "http://121.43.227.35/root/CCNetWorking",
+  "license": "MIT",
+  "authors": {
+    "huangcheng": "黄成"
+  },
+  "source": {
+    "git": "http://121.43.227.35/root/CCNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

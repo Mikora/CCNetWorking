@@ -1,0 +1,6 @@
+framework module CCNetWorking {
+  umbrella header "CCNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
